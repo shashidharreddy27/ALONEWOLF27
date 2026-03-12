@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ALONEWOLF27
+- 👋 Hi, I’m @Alonewolf27
 - 👀 I’m interested in learning things
 - 🌱 I’m currently learning java script 
 - 💞️ I’m looking to collaborate for internships
